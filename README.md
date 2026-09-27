@@ -82,11 +82,8 @@ Track the full campaign (targets, branches, PRs) in my [contributions hub](https
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydallaboutlearning&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kydallaboutlearning&show_icons=true&locale=en" alt="github stats" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kydallaboutlearning&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kydallaboutlearning&theme=default)
 
 ---
 
