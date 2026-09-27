@@ -75,6 +75,7 @@ Real PRs into real codebases — not tutorial repos:
 | [stellar/stellar-rpc](https://github.com/stellar/stellar-rpc) · Go | Fixed perf-eval sticky comments autolinking random issues (`#N` → `#&#8203;N`), tests updated | [#1048](https://github.com/stellar/stellar-rpc/pull/1048) |
 | [payjoin/rust-payjoin](https://github.com/payjoin/rust-payjoin) · Rust/Bitcoin | Sender `additional_fee_contribution` now accounts for dust outputs — script-aware threshold, new error variant, clamp behavior (5 commits) | [#1910](https://github.com/payjoin/rust-payjoin/pull/1910) |
 | [Plain-labs/Proxima](https://github.com/Plain-labs/Proxima) · Soroban | Completed SpendingPolicy test-suite gaps — daily-reset coverage incl. a TTL-archiving gotcha fix | [`test/policy-suite-2`](https://github.com/kydallaboutlearning/Proxima/tree/test/policy-suite-2) |
+| [bee-san/RustScan](https://github.com/bee-san/RustScan) · Rust | Fixed UDP payload decoder mangling literal text (SNMP `public` → `0xbc`) + CRLF port-token bug — 4 commits | [#938](https://github.com/bee-san/RustScan/pull/938) |
 
 Track the full campaign (targets, branches, PRs) in my [contributions hub](https://github.com/kydallaboutlearning/stellar-portfolio-hub) *(coming soon)*.
 
